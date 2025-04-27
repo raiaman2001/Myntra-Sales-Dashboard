@@ -28,3 +28,5 @@ This Power BI dashboard analyzes retail performance data from a fictional Supers
   b.) Interact with visuals and slicers to explore sales data.
 
   c.) Connect your own dataset to use this dashboard for your business case.
+
+![Image](https://github.com/user-attachments/assets/602525e4-3072-4f1e-9cd7-f050352ab3fa)
